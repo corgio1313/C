@@ -1,2 +1,2 @@
 # C
-!!! go to discord
+!!! go to discor
