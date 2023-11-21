@@ -1,2 +1,2 @@
 # C
-!!! go to disco
+!!! go to disc
