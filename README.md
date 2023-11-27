@@ -1,2 +1,2 @@
 # C
-!!! go to dis
+!!! go to di
